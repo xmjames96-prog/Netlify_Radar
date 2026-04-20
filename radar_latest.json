@@ -1,0 +1,26 @@
+{
+  "update_time": "2026-04-20 11:40:52",
+  "topics": [
+    {
+      "platform": "知乎",
+      "title": "职场内耗的3个底层来源是什么？",
+      "hotness": "980w 热度",
+      "summary": "AI总结：深入探讨了现代职场中情绪劳动、边界感缺失和向上管理失败带来的精神消耗，并提出了创客思维的破局点。",
+      "url": "https://www.zhihu.com"
+    },
+    {
+      "platform": "36Kr",
+      "title": "DeepSeek API 彻底改变了独立开发者的变现逻辑",
+      "hotness": "全站第一",
+      "summary": "AI总结：分析了低成本大模型如何让单人团队也能构建复杂的 SaaS 应用，商业模式从'卖软件'转向'卖工作流'。",
+      "url": "https://36kr.com"
+    },
+    {
+      "platform": "微信公众号",
+      "title": "为什么现在的年轻人都在搞'数字极简'？",
+      "hotness": "10w+ 阅读",
+      "summary": "AI总结：信息过载导致的注意力涣散，促使年轻人重新使用 MP3 和纸质书，这背后是对个人精力管理的重新夺回。",
+      "url": "https://mp.weixin.qq.com"
+    }
+  ]
+}
